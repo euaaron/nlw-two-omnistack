@@ -18,7 +18,7 @@
   --color-box-base: #FFFFFF;
   --color-box-footer: #FAFAFC;
 
-  font-size: 40%;
+  font-size: 60%;
 }
 
 * {
@@ -46,7 +46,7 @@ input,
 textarea,
 body {
   font: 500 1.6rem Poppins;
-
+  color: var(--color-text-base);
 }
 
 .container {

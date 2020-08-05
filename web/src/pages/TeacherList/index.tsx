@@ -1,8 +1,37 @@
 import React from 'react';
 
+import PageHeader from '../../shared/PageHeader';
+import TeacherItem from '../../shared/TeacherItem';
+
+import './styles.css';
+
 function TeacherList() {
     return (
-        <h1>Teacher List</h1>
+        <div id="page-teacher-list" className="container">
+            <PageHeader title="Estes são os proffys disponiveis.">
+                <form id="search-teachers">
+                    <div className="input-block">
+                        <label htmlFor="subject">Matéria</label>
+                        <input type="text" id="subject" />
+                    </div>
+                    <div className="input-block">
+                        <label htmlFor="week-day">Dia da Semana</label>
+                        <input type="text" id="week-day" />
+                    </div>
+                    <div className="input-block">
+                        <label htmlFor="time">Horário</label>
+                        <input type="text" id="time" />
+                    </div>
+                </form>
+            </PageHeader>
+            <main>
+                <TeacherItem></TeacherItem>
+                <TeacherItem></TeacherItem>
+                <TeacherItem></TeacherItem>
+                <TeacherItem></TeacherItem>
+                <TeacherItem></TeacherItem>
+            </main>
+        </div>
     )
 }
 
