@@ -12,7 +12,7 @@ Se tu tem interesse por front-end, e quer começar nessa área ou já tem conhec
 ## Os Branchs deste Repo
 
 O evento possuí duas "trilhas", cada uma direcionada para um nível de experiência diferente, a trilha discovery para iniciantes, e a omnistack para os mais experientes.
-Por este motivo, criei uma branch para cada trilha, onde estarei fazendo OS DOIS CAMINHOS.
+Por este motivo, criei uma branch para cada trilha, onde estarei fazendo OS DOIS CAMINHOS. Como o Omnistack é o mais "completo" deixei ele como branch principal.
 
 Eu sei Diego... vc falou pra n fazer isso... Mas mesmo tendo um conhecimento relativamente intermediário alto, ainda tenho inseguranças de n saber bem o básico. Então quero fazer os dois para não sentir mais isso. Começando pelo mais difícil, lógico... kkkkk
 
