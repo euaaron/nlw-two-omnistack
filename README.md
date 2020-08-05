@@ -1,4 +1,4 @@
-\#react \#react-native \#rocketseat
+\#react \#rocketseat
 # Next Level Week 2
 
 Faala devs!
