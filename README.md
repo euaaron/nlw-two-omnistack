@@ -6,14 +6,20 @@
 </div>
 <div align="center">
   <a href="https://github.com/euaaron/NLW2/blob/omnistack/LICENSE">
-    <img src="https://img.shields.io/github/license/euaaron/NLW2?label=License" alt="MIT License"></a> 
+    <img src="https://img.shields.io/github/license/euaaron/NLW2?style=flat-square&?label=License" alt="MIT License"></a> 
   <a href="https://github.com/euaaron/NLW2/commits/omnistack">
-    <img src="https://img.shields.io/github/last-commit/euaaron/NLW2/omnistack?label=Last%20update" alt="Last Update"></a>
+    <img src="https://img.shields.io/github/last-commit/euaaron/NLW2/omnistack?style=flat-square&?label=Last%20update" alt="Last Update"></a>
   <a href="#">
-    <img src="https://img.shields.io/github/repo-size/euaaron/NLW2?label=Size" alt="repo size"></a>
+    <img src="https://img.shields.io/github/repo-size/euaaron/NLW2?style=flat-square&?label=Size" alt="repo size"></a>
 </div>
 <br/>
-<!-- Introduction -->
+<div align="center">
+
+[Introdução](#\#introdução) | [Tecnologias](#\#tecnologias) | [Screenshots](#\#screenshots) | [Diferenciais e Aprimoramentos](#\#diferenciais-e-aprimoramentos) | [Comandos](#\#comandos)
+
+</div>
+
+## \#Introdução
 
  &nbsp;&nbsp;&nbsp;&nbsp;O Proffy é uma plataforma (fictícia) para aprender e ensinar. É um lugar onde professores cadastram suas aulas particulares, bem como os preços e o conteúdo, e assim alunos podem encontra-los e contratar seus serviços.
 
@@ -21,7 +27,7 @@
 
 O projeto é desenvolvido utilizando o conceito de SPA (Single Page Application) através da utilização, principalmente, do **`React`**. Com um backend **`NodeJS`** e integração do **`Express`** para facilitar as transações HTTP, além do **`SQLite3`** e **`Knex`** para o banco de dados.
 
-> Tomei a liberdade de utilizar as fotos e os nomes de seguidores do GitHub para popular o banco de dados, caso tenha alguma objeção, favor postar um <a href="https://github.com/euaaron/NLW2/issues">ISSUE<a> ou entrar em contato comigo de alguma outra forma.
+> Tomei a liberdade de utilizar as fotos e os nomes de seguidores do GitHub para popular o banco de dados, caso tenha alguma objeção, favor postar um [ISSUE](https://github.com/euaaron/NLW2/issues) ou entrar em contato comigo de alguma outra forma.
 
 ## \#Screenshots
 
@@ -34,7 +40,8 @@ Em breve
 ## \#Comandos
 
 Em breve
-<hr>
+
+---
 
 # NEXT LEVEL WEEK 2
 
