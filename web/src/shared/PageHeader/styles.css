@@ -27,6 +27,10 @@
     opacity: 0.6;
 }
 
+.page-header .top-bar-container a > img {
+    filter: hue-rotate(-20deg);
+}
+
 .page-header .top-bar-container > img {
     height: 1.6rem;
 }
@@ -59,8 +63,8 @@
         margin: 0 auto;
         padding-bottom: 48px;
         display: flex;
-        justify-content: center;
-        align-items: flex-start;
+        justify-content: start;
+        align-items: center;
     }
 
     .page-header .header-content strong {
