@@ -27,6 +27,7 @@
 }
 
 .hero-image {
+    filter: hue-rotate(-20deg);
     width: 100%;
 }
 
@@ -89,6 +90,7 @@
 }
 
 .total-connections img {
+    filter: hue-rotate(100deg);
     margin-left: 0.8rem;
 }
 
@@ -98,8 +100,8 @@
         display: grid;
 
         grid-template-rows: 350px 1fr;
-        grid-template-columns: 2fr 1fr 1fr;
-        grid-template-areas: "logo hero hero" "buttons buttons total";
+        grid-template-columns: 1fr 1fr 2fr;
+        grid-template-areas: "logo logo hero" "buttons buttons total";
     }
 
     .logo-container {
