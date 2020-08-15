@@ -1,8 +1,8 @@
 `#react` &nbsp; `#react-native` &nbsp; `#rocketseat` &nbsp; `#nlw` &nbsp; `#learning`
-
 <!-- Title -->
+Trilha **OMNISTACK**
 <div align="center">
-  <h1 align="center">P r o f f y | <b>OMNISTACK</b></h1>  
+  <img src="./readme-media/header.png">
 </div>
 <div align="center">
   <a href="https://github.com/euaaron/NLW2/blob/omnistack/LICENSE">
@@ -49,7 +49,7 @@ Faala devs!
 
 Nesse repositório estarei postando o conteúdo que estarei desenvolvendo durante as aulas da [Next Level Week 2](https://nextlevelweek.com/), evento gratuito oferecido pela [Rocketseat](https://rocketseat.com.br/), durante os dias 3 a 9 de agosto.
 
-> Se você tem interesse por front-end, e quer começar nessa área ou já tem conhecimento mas ainda não se sente seguro, está cansado de estudar o básico html, css e js, já pensou em aprender algum framework, ou uma stack, mas não sabe qual escolher ou por onde começar. Corre lá e se inscreve pra participar dessa semana incrível onde aprenderemos tudo oq é preciso para que o nosso conhecimento vá para o próximo nível! (Depois do dia 9 os vídeos não estarão mais disponíveis)
+> Se você tem interesse por front-end, e quer começar nessa área ou já tem conhecimento mas ainda não se sente seguro, está cansado de estudar o básico html, css e js, já pensou em aprender algum framework, ou uma stack, mas não sabe qual escolher ou por onde começar. Corre lá e se inscreve pra participar dessa semana incrível onde aprenderemos tudo oq é preciso para que o nosso conhecimento vá para o próximo nível! (Depois do dia 14/08/2020 os vídeos só estarão disponíveis para Alumni da Rocketseat)
 
 ## Os Branchs deste Repo
 
